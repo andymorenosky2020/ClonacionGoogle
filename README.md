@@ -21,5 +21,5 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de GOOGLE
 
 * **Footer**: Sección que incluye hipervínculos al final de la página.
 
-## Objetivo del Proyecto
+## 3.Objetivo del Proyecto
 Aprende a utilizar la etiquetas estándar de HTML5 y CSS3.
