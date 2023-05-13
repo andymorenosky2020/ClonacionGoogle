@@ -3,7 +3,7 @@ Practica De Clonación de Interfaz de Google  Tecnolochicas PRO
 ## Índice
 
 * [1. Intro](https://github.com/andymorenosky2020/ClonacionGoogle/blob/main/README.md#1-intro) 
-* [2. Qué construí](#)
+* [2. Qué construí](https://github.com/andymorenosky2020/ClonacionGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
 *  [3. Objetivo del Proyecto](#)
 
 ****
